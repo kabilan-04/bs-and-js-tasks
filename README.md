@@ -1,1 +1,1 @@
-# bs-and-js-tasks
+# Bootstrap-and-JavaScript-Tasks
